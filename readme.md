@@ -10,4 +10,4 @@ documentation link https://documenter.getpostman.com/view/33983023/2sB34kFf84
 
 
 # Custom
-custom atau source code bisa minta ke rahmadfani@gmail.com
+custom atau source code bisa minta ke rahmadfani46@gmail.com
