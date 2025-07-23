@@ -9,5 +9,5 @@ Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia sesuai Kepme
 documentation link https://documenter.getpostman.com/view/33983023/2sB34kFf84
 
 
-# Custom
-custom atau source code bisa minta ke rahmadfani46@gmail.com
+# Kostum
+Kostum atau source code bisa minta ke rahmadfani46@gmail.com
